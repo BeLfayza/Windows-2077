@@ -1,5 +1,5 @@
 # Windows 2077
-A .reg file to change the Windows Update pause date to 2077/01/01
+A .reg file to change the Windows Update pause date to 2077/01/01 (You can change the value on your own if you're not restarted)
 ### ⚙️ How to Use
 1. Go to Windows Update Settings and pause the update (Just press it once)
 2. Download WinDef2077.reg file from [release](https://github.com/BeLfayza/Windows-2077/releases/tag/download)
